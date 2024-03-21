@@ -17,7 +17,7 @@ Download or clone the content of repository. Then follow the instruction given b
 ### Setup for frontend
 1. Open the folder React project in VsCode.
 2. Then Install node.js from https://nodejs.org/en/download/.
-3. Then open cmd and paste: cd mearnapp
+3. Then open cmd and paste: cd my-app
 4. After installation of React properly, in cmd paste: npm start
 
 ### Setup for backend
